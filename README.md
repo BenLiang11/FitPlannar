@@ -1,8 +1,18 @@
 # FitPlannar
 
-Welcome to our project! This is a short guide to get you started with the installation process.
+Welcome to the FitPlannar App! This application is designed to create, manage, and track different exercise and workout routines with ease. Here is a quick guide to get your started.
 
 ---
+
+## Key Features
+
+- Create and edit workout plans for the day, week or month.
+- Track progress towards specific goals.
+- Find new workout routines through a registered database.
+  - Target specific muscle groups.
+  - Adjust levels of difficulty.
+- Provide feedback and review to workouts.
+- Keep track and log of workout history.
 
 ## Installation Instructions
 
